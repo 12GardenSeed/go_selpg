@@ -1,4 +1,4 @@
-Usage
+#Usage
 selpg -s=Number -e=Number [options] [filename]
 -s=Number Specify the start number. Must be the first argument.
 -e=Number Specify the end number. Must be the second argument.
